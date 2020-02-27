@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Resoles_exer4_SlamBook</string>
+    <string name="hello">Hello!</string>
+    <string name="qname">Name</string>
+    <string name="qnickname">Nickname</string>
+    <string name="qage">Age</string>
+    <string name="qbirthday">When is your birthday?</string>
+    <string name="qnumber">Phone number</string>
+    <string name="qemail">What is your email address?</string>
+    <string name="qcourse">What is your course?</string>
+    <string name="qdream">What is your ultimate dream?</string>
+    <string name="qcrush">Who is your secret crush?:</string>
+    <string name="qmessage">What is your message for me?:</string>
+    <string name="ename">Enter Name</string>
+    <string name="enickname">Enter Nickname</string>
+    <string name="eage">Enter Age</string>
+    <string name="ebirthday">Enter Birthday</string>
+    <string name="enumber">Enter Phone Number</string>
+    <string name="eemail">Enter Email Address</string>
+    <string name="ecourse">Enter Course</string>
+    <string name="edream">Enter Dream</string>
+    <string name="ecrush">Enter Name of Crush</string>
+    <string name="done">Done</string>
+    <string name="finish">Thank you for answering!</string>
+
+</resources>
